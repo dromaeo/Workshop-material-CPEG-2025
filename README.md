@@ -1,4 +1,4 @@
-CPEG-CPN conference 2025 - Attended as a participant
+# CPEG-CPN conference 2025 - Attended as a participant
 
 WORKSHOP 1: Open data science (you are here) https://github.com/palaeoverse/2025-CPEG-workshop
 
